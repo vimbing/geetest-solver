@@ -1,4 +1,4 @@
-package solver
+package geetest
 
 type payloadW struct {
 	DeviceID     string  `json:"device_id"`

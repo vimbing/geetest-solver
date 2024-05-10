@@ -1,4 +1,4 @@
-package solver
+package geetest
 
 type responseGeneric struct {
 	Status string `json:"status"`

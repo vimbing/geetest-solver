@@ -1,8 +1,9 @@
-package solver
+package geetest
 
 import (
 	"fmt"
-	"geetest/internal/utils"
+
+	"github.com/vimbing/geetest-solver/internal/utils"
 
 	"github.com/vimbing/http"
 )

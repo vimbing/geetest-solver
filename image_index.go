@@ -1,4 +1,4 @@
-package solver
+package geetest
 
 var imageIndex = map[string]int{
 	"818056cdeef639e8": 221,

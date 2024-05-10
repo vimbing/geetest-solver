@@ -1,4 +1,4 @@
-module geetest
+module github.com/vimbing/geetest-solver
 
 go 1.22.1
 

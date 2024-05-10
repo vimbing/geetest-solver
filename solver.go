@@ -1,14 +1,15 @@
-package solver
+package geetest
 
 import (
 	"bytes"
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	"geetest/internal/utils"
 	"image/png"
 	"math/rand"
 	"regexp"
+
+	"github.com/vimbing/geetest-solver/internal/utils"
 
 	"github.com/corona10/goimagehash"
 	"github.com/google/uuid"
