@@ -1,5 +1,7 @@
 # Geetest v4 slider captcha golang solver
 
+# Alternative, you can use capsolver.com
+
 Based on [this gravilk's repo](https://github.com/gravilk/geetest-v4-slide-documented)
 
 
